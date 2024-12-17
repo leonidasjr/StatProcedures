@@ -1,6 +1,6 @@
 # Stats_Procedures
 
-This script runs nine diffrent statistical procedures (since you provide the input parameters). 
+These scripts run ten diffrent automated statistical procedures (since you provide the input parameters). 
 Please read the comment lines in-between each following procedure code block
 
 PROCEDURES:
@@ -12,4 +12,6 @@ PROCEDURES:
 6. Reports t-test results;
 7. Reports ANOVA and LinReg results;
 8. Runs an automatic statistical assumption function for T-TEST;
-9. Runs an automatic statistical assumption function for ANOVA and LinReg.
+9. Function to identify significant numeric variables based on Kruskall-Walis test
+10. Function to identify significant numeric variables based on ANOVA and ANCOVA;
+11. Function to identify significant numeric variables based on Mixed Models.
